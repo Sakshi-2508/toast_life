@@ -196,6 +196,8 @@ MIT License
 
 If you like this package, give it a ⭐ on GitHub and support the project.
 
+[![pub package](https://img.shields.io/pub/v/toast_lift.svg)](https://pub.dev/packages/toast_lift)
+
 # 🌐 GitHub
 
 View source code, report issues, or contribute here:
