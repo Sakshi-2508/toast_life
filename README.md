@@ -206,6 +206,6 @@ View source code, report issues, or contribute here:
 
 https://github.com/Sakshi-2508/toast_life
 
-# Pacakage Link
+# Package Link
 pub.dev Package:
 https://pub.dev/packages/toast_lift
