@@ -23,9 +23,9 @@ ToastLift helps developers display elegant floating toast notifications with min
 ## 📸 Screenshots
 
 <p>
-  <img src="example/screenshots/img1.png" width="250"/>
+  <img src="example/screenshots/img4.png" width="250"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="example/screenshots/img2.png" width="250"/>
+  <img src="example/screenshots/img5.png" width="250"/>
 </p>
 
 ---
