@@ -203,7 +203,7 @@ If you like this package, give it a ⭐ on GitHub and support the project.
 
 View source code, report issues, or contribute here:
 
-https://github.com/Sakshi-2508/toast_life
+https://github.com/Sakshi-2508/toast_lift
 
 # Package Link
 pub.dev Package:
