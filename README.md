@@ -36,7 +36,7 @@ Add this to your `pubspec.yaml`:
 
 ```yaml
 dependencies:
-  toast_lift: ^1.0.1
+  toast_lift: ^1.0.2
 ```
 
 Then run:

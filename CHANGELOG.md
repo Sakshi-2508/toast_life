@@ -1,4 +1,4 @@
-## 1.0.1
+## 1.0.2
 
 - Improved example app UI
 - Updated toast preview screen design
