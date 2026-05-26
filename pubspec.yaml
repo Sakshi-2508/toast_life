@@ -1,10 +1,6 @@
 name: toast_lift
 description: Beautiful animated toast notifications for Flutter apps with modern UI and smooth animations.
-<<<<<<< HEAD
 version: 1.0.1
-=======
-version: 0.1.0
->>>>>>> b895155dc26fd89c5020caf9e80b45d6353b1b10
 
 homepage: https://github.com/Sakshi-2508/toast_lift
 repository: https://github.com/Sakshi-2508/toast_lift
