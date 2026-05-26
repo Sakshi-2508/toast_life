@@ -1,7 +1,6 @@
 # ToastLift 🚀
 
 A beautiful, animated, and modern Flutter toast package with swipe dismiss, premium UI, multiple toast types, smooth animations, and Lottie-powered showcase screens.
-
 ToastLift helps developers display elegant floating toast notifications with minimal code.
 
 ---
@@ -37,7 +36,7 @@ Add this to your `pubspec.yaml`:
 
 ```yaml
 dependencies:
-  toast_lift: ^0.0.1
+  toast_lift: ^1.0.1
 ```
 
 Then run:
@@ -195,6 +194,10 @@ MIT License
 # ❤️ Support
 
 If you like this package, give it a ⭐ on GitHub and support the project.
+
+# MarkDown
+
+[![pub package](https://img.shields.io/pub/v/toast_lift.svg)](https://pub.dev/packages/toast_lift)
 
 # 🌐 GitHub
 
